@@ -1,0 +1,11 @@
+section.main.css-uf99v8.ea3mdgi5{
+    
+    background: linear-gradient(to bottom, #41768f, #7fdddd); /* Shiny purple gradient */
+    /* background-size: cover; */
+}
+header.css-18ni7ap.ezrtsby2{
+    /* background-color: rgb(85, 82, 82);
+     */
+    background-color: #41768f; /* Use the same dark purple color from the gradient */
+    color: #ffffff;
+}
